@@ -43,21 +43,21 @@ No health bars. No enemies. Just timing, nerve, and a shrinking world beneath yo
 <table align="center">
 <tr>
 <td align="center" width="50%">
-<img src="https://raw.githubusercontent.com/Priyanksolanki9853/HW_2026_Test_/main/Media/start_screen.png" width="100%"><br>
+<img src="https://github.com/user-attachments/assets/446d68a7-8d27-43a3-9f88-1dab9e20ff1a" width="100%"><br>
 <sub><b>🏠 Start Screen</b> — jump in with one click, high score always in view</sub>
 </td>
 <td align="center" width="50%">
-<img src="https://raw.githubusercontent.com/Priyanksolanki9853/HW_2026_Test_/main/Media/gameplay_1.png" width="100%"><br>
+<img src="https://github.com/user-attachments/assets/54ec1ddd-4c03-458d-9efd-a316ba5d85ed" width="100%"><br>
 <sub><b>⏱️ The Chase Begins</b> — pulpit timer ticking, one hop scored</sub>
 </td>
 </tr>
 <tr>
 <td align="center" width="50%">
-<img src="https://raw.githubusercontent.com/Priyanksolanki9853/HW_2026_Test_/main/Media/gameplay_2.png" width="100%"><br>
+<img src="https://github.com/user-attachments/assets/d4d09c49-6391-461a-ba02-4567719a2ecc" width="100%"><br>
 <sub><b>🔥 Building Momentum</b> — three pulpits down, clock still running</sub>
 </td>
 <td align="center" width="50%">
-<img src="https://raw.githubusercontent.com/Priyanksolanki9853/HW_2026_Test_/main/Media/game_over.png" width="100%"><br>
+<img src="https://github.com/user-attachments/assets/a8ce738b-1c9b-476e-8259-2c7cddde9701" width="100%"><br>
 <sub><b>💀 Game Over</b> — instant retry or bail, high score locked in</sub>
 </td>
 </tr>
