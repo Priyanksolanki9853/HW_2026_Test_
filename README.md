@@ -43,7 +43,8 @@ No health bars. No enemies. Just timing, nerve, and a shrinking world beneath yo
 <table align="center">
 <tr>
 <td align="center" width="50%">
-<img src="Media/start_screen.png" width="100%"><br>
+<img src="<img width="1460" height="798" alt="Screenshot 2026-08-20 at 2 54 33 AM" src="https://github.com/user-attachments/assets/4b1c9ba6-9122-4777-8fcc-c49e84e816be" />
+" width="100%"><br>
 <sub><b>🏠 Start Screen</b> — jump in with one click, high score always in view</sub>
 </td>
 <td align="center" width="50%">
