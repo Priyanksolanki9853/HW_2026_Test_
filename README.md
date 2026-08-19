@@ -1,3 +1,4 @@
+<img width="1460" height="798" alt="Screenshot 2026-08-20 at 2 54 33 AM" src="https://github.com/user-attachments/assets/2aba47b9-d326-4f20-b62c-ca2f90905ba8" />
 # 🎮 Doofus Adventure Game — Hitwicket 2026 Challenge
 
 An interactive 3D platformer developed in **Unity (C#)** for the **Hitwicket Game Developer Challenge** (`HW_2026_Test`). Control **Doofus** as he navigates across disappearing green platforms (Pulpits). Each platform has an active countdown timer; move quickly to newly spawned adjacent platforms before the current one collapses underneath[cite: 1]!
@@ -16,7 +17,8 @@ An interactive 3D platformer developed in **Unity (C#)** for the **Hitwicket Gam
 
 | Start Screen | Active Gameplay (Platform Timer) |
 | :---: | :---: |
-| ![Start Menu](Media/start_screen.png) | ![Gameplay Countdown](Media/gameplay_1.png) |
+| ![Start Menu](<img width="1460" height="798" alt="Screenshot 2026-08-20 at 2 54 33 AM" src="https://github.com/user-attachments/assets/2dd1537a-f357-41f1-aee2-89298eca7258" />
+) | ![Gameplay Countdown](Media/gameplay_1.png) |
 | **Score Progression** | **Game Over Screen** |
 | ![Score Progression](Media/gameplay_2.png) | ![Game Over](Media/game_over.png) |
 
